@@ -1,0 +1,58 @@
+###################################
+# General ignore patterns
+###################################
+
+build/
+obj/
+*.o
+Debug*/
+Release*/
+*.mode*
+*.app/
+*.pyc
+.svn/
+
+###################################
+# OS Specific
+###################################
+
+# Linux
+*~
+
+# OSX
+**/.DS_Store
+.DS_Store
+*.swp
+*~.nib
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+###################################
+# Node.js
+###################################
+
+**/node_modules
+lib-cov
+lcov.info
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+pids
+logs
+results
+build
+.grunt
+
+###################################
+# App Specific 
+###################################
+
