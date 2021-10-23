@@ -2,6 +2,9 @@
 title: Salt Lake
 stack: PHP
 slug: salt-lake
+date: 2021-02-01T00:00:00+00:00
+thumb: ../images/thumbs/skate.png
+featuredImg: ../images/featured/skate-banner.png
 ---
 
 
